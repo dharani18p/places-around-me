@@ -194,17 +194,17 @@ The uses of Puzhal Lake in puzhal are
 </html>
 ```
 ## Output:
-![Output](./screenshot/out1.png)
+![Output](/screenshot/out1.png)
 
-![Output](./screenshot/out2.png)
+![Output](/screenshot/out2.png)
 
-![Output](./screenshot/out3.png)
+![Output](/screenshot/out3.png)
 
-![Output](./screenshot/out4.png)
+![Output](/screenshot/out4.png)
 
-![Output](./screenshot/out5.png)
+![Output](/screenshot/out5.png)
 
 ## HTML Validator
-![HTML Validator](./screenshot/outputend.png)
+![HTML Validator](/screenshot/outputend.png)
 ## Result:
 thus we developed a website to display details about the places around my house.
